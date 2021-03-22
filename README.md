@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EloiLQ
+- 👋 Hi, I’m Eloi Le Quilleuc
 - 👀 I’m interested in Artifial Intelligence
-- 🌱 I’m currently learning Entity Embedding
-- 💞️ I’m looking to collaborate on Facebook, Google, Amazon
+- 🌱 I’m currently learning a technique called Entity Embedding for Customer Segmentation
+- 💞️ I’m looking to collaborate on machine learning algorithms
 - 📫 How to reach me eloi.lequilleuc@gmail.com
 
 <!---
